@@ -1,0 +1,25 @@
+[SCREEN]
+width = 400
+height = 400
+
+[ACC_ZERO]
+x = 130.0
+y = 130.0
+z = 130.0
+
+[ACC_GAIN]
+x = 27.0
+y = 27.0
+z = 27.0
+
+[SOUNDS]
+on = sound/on0.wav
+off = sound/off0.wav
+swing1 = sound/swing1.wav
+hit1 = sound/hit1.wav
+fall = sound/hit4.wav
+
+[GYRO_ZERO]
+yaw = 10.3999842844
+roll = 10.1123628867
+pitch = 10.5254226913
